@@ -1,5 +1,5 @@
-                                                                        NAME   :  VIGNESH.M
-                                                                        REG NO :  212223040235
+                                                                                        NAME   :  VIGNESH.M
+                                                                                        REG NO :  212223040235
 
 # EX-5  Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 ## Aim :
